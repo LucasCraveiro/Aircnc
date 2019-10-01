@@ -1,0 +1,6 @@
+=> Create a folder back end
+=> yarn init -y
+=> yarn add express
+=> create the server and run node src/server.js
+=> Run yarn add nodemon -D (D means just in development mode - not in production) to see the localhost refresed without initiating the server everytime
+=> yarn dev to run the script (added on package Json)
