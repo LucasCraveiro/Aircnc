@@ -1,0 +1,8 @@
+{
+  "name": "Aircnc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LucasCraveiro/Aircnc.git",
+  "author": "Lucas Craveiro <lucashcraveiro@gmail.com>",
+  "license": "MIT"
+}

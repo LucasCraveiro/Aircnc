@@ -7,3 +7,7 @@
 => Downloaded Insominia Debug
 => After downloading database Mongodb Atlas - Yarn add mongose
 => Added multer using yarn to handle with multipart on Insomnia
+
+Front End Web
+=> Install Babel to write ES6 and the browser read old version of JS (yarn create react app foldername)
+=> yarn create react-app
