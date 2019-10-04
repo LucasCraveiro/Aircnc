@@ -6,3 +6,4 @@
 => yarn dev to run the script (added on package Json)
 => Downloaded Insominia Debug
 => After downloading database Mongodb Atlas - Yarn add mongose
+=> Added multer using yarn to handle with multipart on Insomnia
