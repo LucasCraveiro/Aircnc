@@ -6,8 +6,11 @@
 => yarn dev to run the script (added on package Json)
 => Downloaded Insominia Debug
 => After downloading database Mongodb Atlas - Yarn add mongose
-=> Added multer using yarn to handle with multipart on Insomnia
+=> Added multer using yarn to handle with mult
+=> Added cors - Yarn add cors
 
 Front End Web
 => Install Babel to write ES6 and the browser read old version of JS (yarn create react app foldername)
 => yarn create react-app
+=> Add Axios to handle with the API on the frontend 
+=> Add yarn react-router-dom
